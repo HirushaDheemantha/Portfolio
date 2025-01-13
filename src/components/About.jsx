@@ -1,4 +1,4 @@
-import aboutImg from "../assets/about.jpg";
+import aboutImg from "../assets/me.jpg";
 import { ABOUT_TEXT } from "../constants";
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";

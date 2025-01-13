@@ -3,7 +3,7 @@ import { useState } from "react";
 const GetInTouch = () => {
     const [copySuccess, setCopySuccess] = useState(false);
     const email = "hirushadheemantha@gmail.com"; // Replace with your email address
-    const phone = "+1234567890"; // Replace with your phone number
+    const phone = "+94 77 184 0670"; // Replace with your phone number
 
     const copyToClipboard = () => {
         navigator.clipboard.writeText(email).then(() => {
