@@ -17,18 +17,18 @@ import otomateLogo from "../assets/projects/otomate.png"; // Path to the Otomate
 export const EXPERIENCES = [
   {
     year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "AIESEC Dev",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "MongoDB"],
+    role: "Software Engineer",
+    company: "AIESEC Devteam",
+    description: `As a Software Engineer in the AIESEC Development Team, I contributed to designing and developing applications with a strong focus on data visualization and creating user-centric solutions. My work involved building impactful software systems that enhanced efficiency and supported AIESEC's global operations, leveraging technology to deliver insightful and meaningful results..`,
+    technologies: ["Javascript", "React.js", "Next.js", "MongoDB","PowerBI"],
     image: aiesecLogo, // Added the image path for AIESEC Dev
   },
   {
     year: "2023 - Present",
     role: "Operations",
     company: "Otomate",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "MySQL"],
+    description: `As an Operations Manager at Otomate, I was responsible for streamlining processes, optimizing workflows, and ensuring the smooth execution of daily operations. My role focused on coordinating cross-functional teams, improving efficiency, and implementing strategies to enhance overall performance. I contributed to building scalable operational frameworks that supported the company’s growth and aligned with its strategic objectives.`,
+    technologies: ["Data Visualization"],
     image: otomateLogo, // Added the image path for Otomate
   },
 ];
